@@ -1,0 +1,19 @@
+{
+  "name": "rpi-sensor-board",
+  "version": "1.0.0",
+  "description": "A Node Module for NXP XTRINSIC-SENSE-BOARD",
+  "main": "index.js",
+  "author": "Kyle Williamson",
+  "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Kyledmw/rpi-sensor-board.git"
+    },
+  "dependencies": {
+    "async": "^1.5.2",
+    "ffi": "^2.0.0",
+    "fs": "0.0.2",
+    "ref": "^1.3.2",
+    "ref-struct": "^1.0.2"
+  }
+}
